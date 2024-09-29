@@ -1,0 +1,753 @@
+,probingQuestionID,message_id,Label,set,Probing_Question,Causal_counterpart
+0,5_1,msgid870,1,Dev,what's green block one ok so ok so we know that green block one's heavier so ok blue block one looks relatively the same size so should we see,alright reese you can fill out the survey on the end over there ok so we know red block is ten grams
+1,5_1,msgid866,1,Dev,what's green block one ok so ok so we know that green block one's heavier so ok blue block one looks relatively the same size so should we see,Where's the survey
+2,5_2,msgid873,1,Dev,"i'd say red block, blue block's basically the same because it's teetering",so you hold that at the end of the scale yeah it goes here ok
+3,5_2,msgid874,0,Dev,"i'd say red block, blue block's basically the same because it's teetering",so we know red block is ten set red block there for privacy
+4,5_2,msgid877,1,Dev,"i'd say red block, blue block's basically the same because it's teetering",green block's heavy yep
+5,5_3,msgid875,1,Dev,"ok so what if if i had red block, blue block is it one of yellow block, purple block, green block green block one",what's green block one ok so ok so we know that green block one's heavier so ok blue block one looks relatively the same size so should we see
+6,5_3,msgid880,1,Dev,"ok so what if if i had red block, blue block is it one of yellow block, purple block, green block green block one","i'd say red block, blue block's basically the same because it's teetering"
+7,5_3,msgid884,1,Dev,"ok so what if if i had red block, blue block is it one of yellow block, purple block, green block green block one","ok so yeah that scale so red block, blue block are both ten"
+8,5_4,msgid897,1,Dev,Which one is heavier,purple block is heavier than green block one so green block is twenty purple block is heavier than green block one
+9,5_4,msgid890,1,Dev,Which one is heavier,"so red block, blue block are both ten in theory ten ten twenty"
+10,5_5,msgid895,1,Dev,purple block's greater than twenty,so the green we think is twenty ok so let's see we can use our hands as well
+11,5_5,msgid897,0,Dev,purple block's greater than twenty,purple block is heavier than green block one so green block is twenty purple block is heavier than green block one
+12,5_5,msgid900,1,Dev,purple block's greater than twenty,ok so let's try purple
+13,5_6,msgid897,0,Dev,so i can put one one and see if purple block's thirty,purple block is heavier than green block one so green block is twenty purple block is heavier than green block one
+14,5_6,msgid899,1,Dev,so i can put one one and see if purple block's thirty,yellow block is definitely the heaviest
+15,5_6,msgid902,1,Dev,so i can put one one and see if purple block's thirty,So we have twenty
+16,5_7,msgid898,1,Dev,"ok and then so if i take green block, red block one off yeah thirty put yellow block's going to be heavier more a thirty plus twenty",Which one is heavier
+17,5_7,msgid903,1,Dev,"ok and then so if i take green block, red block one off yeah thirty put yellow block's going to be heavier more a thirty plus twenty",purple block's greater than twenty
+18,5_7,msgid904,1,Dev,"ok and then so if i take green block, red block one off yeah thirty put yellow block's going to be heavier more a thirty plus twenty",so i can put one one and see if purple block's thirty
+19,5_8,msgid924,1,Dev,So now we need to figure out just by holding them in our hands,i think yellow block is fifty and purple block is thirty
+20,5_8,msgid925,1,Dev,So now we need to figure out just by holding them in our hands,i think yellow block's fifty
+21,5_8,msgid941,1,Dev,So now we need to figure out just by holding them in our hands,Green was twenty yep nice
+22,5_9,msgid890,0,Dev,Ok alright so what if we what if we this is eighty,"so red block, blue block are both ten in theory ten ten twenty"
+23,5_9,msgid940,1,Dev,Ok alright so what if we what if we this is eighty,Fifty was yellow twenty was yeah we were right oh another block so we hit next on here
+24,5_9,msgid942,1,Dev,Ok alright so what if we what if we this is eighty,So now we need to figure out just by holding them in our hands
+25,5_10,msgid953,1,Dev,We'll have to add one of these and see,What if we flip it down there's a letter
+26,5_10,msgid954,1,Dev,We'll have to add one of these and see,I would say this is still heavier I would say brown is still heavier than eighty
+27,5_10,msgid964,1,Dev,We'll have to add one of these and see,This is a hundred
+28,5_11,msgid967,1,Dev,Still heavier you think,We'll have to add one of these and see
+29,5_11,msgid968,1,Dev,Still heavier you think,Maybe we'll try taking off the lighter of that block and do one ten under and then do that block and do one over
+30,5_11,msgid981,1,Dev,Still heavier you think,I'd still say brown  
+31,5_12,msgid978,1,Dev,What if we add one more and see if it's heavier,Add that to that add that
+32,5_12,msgid981,0,Dev,What if we add one more and see if it's heavier,I'd still say brown  
+33,5_12,msgid954,0,Dev,What if we add one more and see if it's heavier,I would say this is still heavier I would say brown is still heavier than eighty
+34,5_13,msgid991,1,Dev,So we can you think one ten,Now I can tell that this is lighter than this one
+35,5_13,msgid982,1,Dev,So we can you think one ten,Still heavier you think
+36,5_13,msgid983,1,Dev,So we can you think one ten,The distribution's kind of off when you hold them not in a straight line
+37,5_14,msgid1005,1,Dev,That's weird that or are we sure that purple is still twenty,We're good
+38,5_14,msgid1007,1,Dev,That's weird that or are we sure that purple is still twenty,So it was ten ten twenty um so the hint is think about the relationship between the weights of the prior blocks and use that pattern to determine the weight of the mystery block it was ten ten twenty thirty fifty
+39,5_14,msgid1012,1,Dev,That's weird that or are we sure that purple is still twenty,Yeah I mean that makes sense it would move here
+40,5_15,msgid1010,1,Dev,If we decide to continue on the pattern,These are the same this is a difference of ten is this a difference of fifty no it is these and this
+41,5_15,msgid1011,1,Dev,If we decide to continue on the pattern,So this plus this equals this 
+42,5_15,msgid1012,0,Dev,If we decide to continue on the pattern,Yeah I mean that makes sense it would move here
+43,5_1,msgid860,1,Dev,what's green block one ok so ok so we know that green block one's heavier so ok blue block one looks relatively the same size so should we see,No don't write it down you can flip that piece of paper over and uh you will be placing the blocks where they go on the sheet and you will also be filling out this survey here
+44,5_1,msgid858,1,Dev,what's green block one ok so ok so we know that green block one's heavier so ok blue block one looks relatively the same size so should we see,In the first part you are going to work together to determine the weights of the cubes in front of you
+45,5_1,msgid874,1,Dev,what's green block one ok so ok so we know that green block one's heavier so ok blue block one looks relatively the same size so should we see,so we know red block is ten set red block there for privacy
+46,5_2,msgid857,1,Dev,"i'd say red block, blue block's basically the same because it's teetering",The task you are completing today is called the weights task
+47,5_2,msgid870,0,Dev,"i'd say red block, blue block's basically the same because it's teetering",alright reese you can fill out the survey on the end over there ok so we know red block is ten grams
+48,5_2,msgid867,1,Dev,"i'd say red block, blue block's basically the same because it's teetering",It's on that computer
+49,5_3,msgid874,0,Dev,"ok so what if if i had red block, blue block is it one of yellow block, purple block, green block green block one",so we know red block is ten set red block there for privacy
+50,5_3,msgid867,0,Dev,"ok so what if if i had red block, blue block is it one of yellow block, purple block, green block green block one",It's on that computer
+51,5_3,msgid883,1,Dev,"ok so what if if i had red block, blue block is it one of yellow block, purple block, green block green block one",yep it's an amazon scale we're fine
+52,5_4,msgid886,1,Dev,Which one is heavier,Correct
+53,5_4,msgid864,1,Dev,Which one is heavier,Um and you also don't need to touch the slider at all
+54,5_4,msgid893,1,Dev,Which one is heavier,so we have there is no red
+55,5_5,msgid877,0,Dev,purple block's greater than twenty,green block's heavy yep
+56,5_5,msgid880,0,Dev,purple block's greater than twenty,"i'd say red block, blue block's basically the same because it's teetering"
+57,5_5,msgid863,1,Dev,purple block's greater than twenty,Um the scale is not perfect and the blocks aren't always perfect so like it might teeter but that's fine if one drops that's like what you want to look for
+58,5_6,msgid886,0,Dev,so i can put one one and see if purple block's thirty,Correct
+59,5_6,msgid885,1,Dev,so i can put one one and see if purple block's thirty,"so red block, blue block are both ten"
+60,5_6,msgid865,1,Dev,so i can put one one and see if purple block's thirty,Um so yeah just place the cubes on the worksheet as well as fill out the survey as you go and you guys can get started
+61,5_7,msgid865,0,Dev,"ok and then so if i take green block, red block one off yeah thirty put yellow block's going to be heavier more a thirty plus twenty",Um so yeah just place the cubes on the worksheet as well as fill out the survey as you go and you guys can get started
+62,5_7,msgid907,1,Dev,"ok and then so if i take green block, red block one off yeah thirty put yellow block's going to be heavier more a thirty plus twenty",what if i do this ok so less than forty likely thirty ok
+63,5_7,msgid858,0,Dev,"ok and then so if i take green block, red block one off yeah thirty put yellow block's going to be heavier more a thirty plus twenty",In the first part you are going to work together to determine the weights of the cubes in front of you
+64,5_8,msgid900,0,Dev,So now we need to figure out just by holding them in our hands,ok so let's try purple
+65,5_8,msgid896,1,Dev,So now we need to figure out just by holding them in our hands,the green is twenty
+66,5_8,msgid889,1,Dev,So now we need to figure out just by holding them in our hands,so green block one's twenty
+67,5_9,msgid941,0,Dev,Ok alright so what if we what if we this is eighty,Green was twenty yep nice
+68,5_9,msgid886,0,Dev,Ok alright so what if we what if we this is eighty,Correct
+69,5_9,msgid895,0,Dev,Ok alright so what if we what if we this is eighty,so the green we think is twenty ok so let's see we can use our hands as well
+70,5_10,msgid931,1,Dev,We'll have to add one of these and see,yeah that's fine
+71,5_10,msgid892,1,Dev,We'll have to add one of these and see,yeah so we know the blue is ten yeah
+72,5_10,msgid905,1,Dev,We'll have to add one of these and see,right what if we put ten on green block
+73,5_11,msgid926,1,Dev,Still heavier you think,and then here let's confirm purple block a little this here
+74,5_11,msgid861,1,Dev,Still heavier you think,can we write that down
+75,5_11,msgid975,1,Dev,Still heavier you think,Ok cool
+76,5_12,msgid889,0,Dev,What if we add one more and see if it's heavier,so green block one's twenty
+77,5_12,msgid923,1,Dev,What if we add one more and see if it's heavier,Twenty
+78,5_12,msgid916,1,Dev,What if we add one more and see if it's heavier,"yeah so i think fifty because green block, purple block is fifty right definitely less than sixty"
+79,5_13,msgid918,1,Dev,So we can you think one ten,"and purple block is thirty right and red block is ten so purple block, red block would be forty so yellow block's more than forty and less than sixty so yellow block's gotta be fifty"
+80,5_13,msgid979,1,Dev,So we can you think one ten,I would still say brown is heavier it might be a different way of measuring with the palm instead of your fingers but
+81,5_13,msgid873,0,Dev,So we can you think one ten,so you hold that at the end of the scale yeah it goes here ok
+82,5_14,msgid948,1,Dev,That's weird that or are we sure that purple is still twenty,Here
+83,5_14,msgid1003,1,Dev,That's weird that or are we sure that purple is still twenty,That feels closer yeah ok alright so let's go put one ten down
+84,5_14,msgid870,0,Dev,That's weird that or are we sure that purple is still twenty,alright reese you can fill out the survey on the end over there ok so we know red block is ten grams
+85,5_15,msgid1027,1,Dev,If we decide to continue on the pattern,Eighty grams alright cool next ok
+86,5_15,msgid952,1,Dev,If we decide to continue on the pattern,This is fifty
+87,5_15,msgid959,1,Dev,If we decide to continue on the pattern,Yeah I agree I think
+88,1_1,msgid27,1,Train,what would we maybe put blue block one on there too,just like put it on
+89,1_1,msgid30,1,Train,what would we maybe put blue block one on there too,"red block, blue block seems pretty balanced"
+90,1_1,msgid29,1,Train,what would we maybe put blue block one on there too,Hold on lets just uh
+91,1_3,msgid79,1,Train,and green is twenty ok so which one is blue and which one is purple,"purple block, green block is fifty it's not"
+92,1_3,msgid66,1,Train,and green is twenty ok so which one is blue and which one is purple,So what have we done weve done forty
+93,1_3,msgid76,1,Train,and green is twenty ok so which one is blue and which one is purple,"so thirty purple block, blue block is also forty right so purple block, blue block if forty yeah"
+94,1_4,msgid73,1,Train,yes verify real quick but i think purple block is,"thirty fourty fifty correct and purple block, green block's still heavier than yellow block thing"
+95,1_4,msgid77,1,Train,yes verify real quick but i think purple block is,ok so green block one's twenty right
+96,1_4,msgid76,0,Train,yes verify real quick but i think purple block is,"so thirty purple block, blue block is also forty right so purple block, blue block if forty yeah"
+97,1_5,msgid89,1,Train,Yes do you want to check real quick,yes verify real quick but i think purple block is
+98,1_5,msgid72,1,Train,Yes do you want to check real quick,"so purple block, green block is supposedly"
+99,1_5,msgid75,1,Train,Yes do you want to check real quick,So have we done forty
+100,1_6,msgid98,1,Train,How much was purple thirty,purple is thirty red is twenty yellow is fifty
+101,1_6,msgid105,1,Train,How much was purple thirty,Ok definitely minimum fifty
+102,1_7,msgid105,0,Train,I almost feel like this one is still heavier,Ok definitely minimum fifty
+103,1_7,msgid108,1,Train,I almost feel like this one is still heavier,Yeah cause if you feel the yellow one oh yeah so yeah
+104,1_8,msgid123,1,Train,This one feels heavier still add like ten to this side I think,I almost feel like this one is still heavier
+105,1_8,msgid113,1,Train,This one feels heavier still add like ten to this side I think,Ok so we got this ok
+106,1_8,msgid115,1,Train,This one feels heavier still add like ten to this side I think,How much was purple thirty
+107,1_9,msgid124,1,Train,It still feels heavier but it could just be,This one feels heavier still add like ten to this side I think
+108,1_9,msgid121,1,Train,It still feels heavier but it could just be,Yeah same point maybe
+109,1_9,msgid113,0,Train,It still feels heavier but it could just be,Ok so we got this ok
+110,1_10,msgid128,1,Train,Yeah that feels pretty pretty similar to me and try switching it left hand right hand maybe,So right now that's ninety grams
+111,1_10,msgid121,0,Train,Yeah that feels pretty pretty similar to me and try switching it left hand right hand maybe,Yeah same point maybe
+112,1_10,msgid110,1,Train,Yeah that feels pretty pretty similar to me and try switching it left hand right hand maybe,Definitely heavier
+113,1_11,msgid127,1,Train,Two attempts a hundred will it tell us if we get it right or wrong ok,Our perception of it
+114,1_11,msgid128,0,Train,Two attempts a hundred will it tell us if we get it right or wrong ok,So right now that's ninety grams
+115,1_11,msgid129,1,Train,Two attempts a hundred will it tell us if we get it right or wrong ok,Oh jeez yeah
+116,1_12,msgid154,1,Train,So would you,The thing that sucks is that now we are finding about like torque and different other
+117,1_12,msgid160,1,Train,So would you,I wonder like I don't know what that one
+118,2_1,msgid253,1,Train,Which is too much so we'll put twenty right,The first two are ten
+119,2_1,msgid251,1,Train,Which is too much so we'll put twenty right,yeah so green block's probably twenty grams
+120,2_1,msgid261,1,Train,Which is too much so we'll put twenty right,So you know twenty plus ten thirty probably
+121,2_2,msgid275,1,Train,"wait did we mix purple block, green block up or",Oh not enough so probably
+122,2_2,msgid272,1,Train,"wait did we mix purple block, green block up or","so purple block, green block's the twenty and the thirty"
+123,2_2,msgid269,1,Train,"wait did we mix purple block, green block up or",You can do the same process with
+124,2_3,msgid272,0,Train,blue or purple,"so purple block, green block's the twenty and the thirty"
+125,2_3,msgid266,1,Train,blue or purple,i guess and there's no increment so five so we could probably just go with thirty on purple block
+126,2_4,msgid283,1,Train,i think purple or,"so red block, blue block are both ten"
+127,2_4,msgid278,1,Train,i think purple or,Oh yeah the twenty and the thirty so we'll go with the fifty
+128,2_4,msgid275,0,Train,i think purple or,Oh not enough so probably
+129,2_5,msgid281,1,Train,wait a mystery block,"wait did we mix purple block, green block up or"
+130,2_5,msgid237,0,Train,wait a mystery block,"yeah red block, blue block also just look like relatively the same size but red block, blue block could be different material you know"
+131,2_5,msgid275,0,Train,wait a mystery block,Oh not enough so probably
+132,2_6,msgid305,1,Train,Do you want to give it a shot,Ok so this block is heavier than our fifty
+133,2_6,msgid299,1,Train,Do you want to give it a shot,Without the scale
+134,2_6,msgid290,1,Train,Do you want to give it a shot,Question was asked
+135,2_7,msgid324,1,Train,Is the can the weight exceed what's on the paper,I think it's a bit more than the max
+136,2_7,msgid325,1,Train,Is the can the weight exceed what's on the paper,So yeah probably maybe one forty plus or minus ten
+137,2_7,msgid327,1,Train,Is the can the weight exceed what's on the paper,Actually either one thirty
+138,2_8,msgid327,0,Train,Is it wrong,Actually either one thirty
+139,2_8,msgid328,1,Train,Is it wrong,Is the can the weight exceed what's on the paper
+140,2_8,msgid322,1,Train,Is it wrong,I might shoot all the way for the one forty
+141,2_9,msgid335,1,Train,So we can try and,Honestly I still feel like we should go with one forty first and if not we should actually move to one thirty
+142,2_9,msgid321,1,Train,So we can try and,So it's probably
+143,2_9,msgid322,0,Train,So we can try and,I might shoot all the way for the one forty
+144,2_10,msgid365,1,Train,Were we right then,This set of two adds up to this one and then the next set of two adds up to that
+145,2_10,msgid367,1,Train,Were we right then,So it would be eighty and you weigh less
+146,2_11,msgid367,0,Train,No you're wrong it was eighty,So it would be eighty and you weigh less
+147,2_11,msgid369,1,Train,No you're wrong it was eighty,I think it's just the last two so it would just be fifty and thirty
+148,2_12,msgid365,0,Train,And then like every set of two I guess and the next block will be the set,This set of two adds up to this one and then the next set of two adds up to that
+149,2_12,msgid367,0,Train,And then like every set of two I guess and the next block will be the set,So it would be eighty and you weigh less
+150,2_12,msgid374,1,Train,And then like every set of two I guess and the next block will be the set,No you're wrong it was eighty
+151,2_13,msgid365,0,Train,Least heavy to most heavy or,This set of two adds up to this one and then the next set of two adds up to that
+152,2_13,msgid367,0,Train,Least heavy to most heavy or,So it would be eighty and you weigh less
+153,2_13,msgid369,0,Train,Least heavy to most heavy or,I think it's just the last two so it would just be fifty and thirty
+154,3_1,msgid412,1,Train,"so you think red block, blue block're the same weight or",prepare things for red block one
+155,3_1,msgid411,1,Train,"so you think red block, blue block're the same weight or",Alright so shall we
+156,3_1,msgid231,1,Train,"so you think red block, blue block're the same weight or",Ok cool no for sure
+157,3_2,msgid426,1,Train,yellow block one feels just a smidge heavier yeah try green block one,so i should indicate blue block as ten
+158,3_2,msgid430,1,Train,yellow block one feels just a smidge heavier yeah try green block one,yes green block's probably twenty so green one is twenty
+159,3_4,msgid446,1,Train,wait purple is how much purple was thirty,green is twenty and purple is thirty so yellow block weighs to fifty
+160,3_4,msgid445,1,Train,wait purple is how much purple was thirty,green and purple block one
+161,3_4,msgid444,1,Train,wait purple is how much purple was thirty,green is twenty right
+162,3_5,msgid457,1,Train,"have we tried red block, blue block two and the green one cause it's",yellow is of course not ten but
+163,3_5,msgid444,0,Train,"have we tried red block, blue block two and the green one cause it's",green is twenty right
+164,3_6,msgid446,0,Train,"no so when we try purple block, green block both",green is twenty and purple is thirty so yellow block weighs to fifty
+165,3_6,msgid452,1,Train,"no so when we try purple block, green block both",then green is twenty and they weigh
+166,3_6,msgid460,1,Train,"no so when we try purple block, green block both","have we tried red block, blue block two and the green one cause it's"
+167,3_7,msgid466,1,Train,"yellow block must be red block, blue block, purple block right because comparing yellow block to forty yellow block's","purple block, green block has thirty and twenty"
+168,3_7,msgid446,0,Train,"yellow block must be red block, blue block, purple block right because comparing yellow block to forty yellow block's",green is twenty and purple is thirty so yellow block weighs to fifty
+169,3_7,msgid451,1,Train,"yellow block must be red block, blue block, purple block right because comparing yellow block to forty yellow block's",so how about yellow
+170,3_8,msgid471,1,Train,maybe we should try those things here,"yellow block must be red block, blue block, purple block right because comparing yellow block to forty yellow block's"
+171,3_8,msgid446,0,Train,maybe we should try those things here,green is twenty and purple is thirty so yellow block weighs to fifty
+172,3_8,msgid466,0,Train,maybe we should try those things here,"purple block, green block has thirty and twenty"
+173,3_9,msgid491,1,Train,Is there a way for us to test it other than just our,Oh fun
+174,3_9,msgid469,1,Train,Is there a way for us to test it other than just our,so if you put the purple and just to verify that all of our weights are correct
+175,3_10,msgid506,1,Train,I have a question ok somebody like hold the yellow and the brown like,Is it twice as heavy as the yellow one I can't tell
+176,3_10,msgid502,1,Train,I have a question ok somebody like hold the yellow and the brown like,I think it is between ninety to a hundred
+177,3_10,msgid511,1,Train,I have a question ok somebody like hold the yellow and the brown like,I think it's between eighty and ninety
+178,3_11,msgid514,1,Train,But like tell me when it starts to feel the same,This is heavier I can
+179,3_11,msgid506,0,Train,But like tell me when it starts to feel the same,Is it twice as heavy as the yellow one I can't tell
+180,3_11,msgid502,0,Train,But like tell me when it starts to feel the same,I think it is between ninety to a hundred
+181,3_12,msgid502,0,Train,How do you feel this one is lighter,I think it is between ninety to a hundred
+182,3_12,msgid505,1,Train,How do you feel this one is lighter,Maybe a hundred or so
+183,3_13,msgid511,0,Train,I feel like this like might be a smidge heavier but,I think it's between eighty and ninety
+184,3_13,msgid519,1,Train,I feel like this like might be a smidge heavier but,I think it is ok now
+185,3_13,msgid514,0,Train,I feel like this like might be a smidge heavier but,This is heavier I can
+186,3_14,msgid511,0,Train,Definitely heavier right,I think it's between eighty and ninety
+187,3_14,msgid529,1,Train,Definitely heavier right,Now I feel like the right side
+188,3_15,msgid517,1,Train,Does uh like heavier objects roll down the incline plane faster,I think yeah it does
+189,3_15,msgid519,0,Train,Does uh like heavier objects roll down the incline plane faster,I think it is ok now
+190,3_15,msgid525,1,Train,Does uh like heavier objects roll down the incline plane faster,I feel like this like might be a smidge heavier but
+191,3_16,msgid537,1,Train,Does this really heavier than this for sure,Does uh like heavier objects roll down the incline plane faster
+192,3_16,msgid525,0,Train,Does this really heavier than this for sure,I feel like this like might be a smidge heavier but
+193,3_16,msgid529,0,Train,Does this really heavier than this for sure,Now I feel like the right side
+194,3_17,msgid575,1,Train,What if,So now it's leaning this way if we put that it's leaning this way ninety
+195,3_17,msgid574,1,Train,What if,I'm thinking to just remove this once
+196,3_17,msgid572,1,Train,What if,If you have like if you keep twenty
+197,3_18,msgid568,0,Train,So then theory do we have these positioned the same,It's eighty
+198,3_18,msgid575,0,Train,So then theory do we have these positioned the same,So now it's leaning this way if we put that it's leaning this way ninety
+199,3_18,msgid577,1,Train,So then theory do we have these positioned the same,What if
+200,3_19,msgid577,0,Train,What if you removed the ten,What if
+201,3_19,msgid441,1,Train,What if you removed the ten,blue block is blue maybe
+202,3_19,msgid591,1,Train,What if you removed the ten,If only our block was a little just narrow sliver
+203,3_20,msgid592,1,Train,Let's try it with a different let's try it with that phone for a second and see just to rule out like maybe this phone design is heavier on one side right,What if you removed the ten
+204,3_20,msgid587,1,Train,Let's try it with a different let's try it with that phone for a second and see just to rule out like maybe this phone design is heavier on one side right,It's nintey see even for that its
+205,3_20,msgid590,1,Train,Let's try it with a different let's try it with that phone for a second and see just to rule out like maybe this phone design is heavier on one side right,Here it started dipping
+206,3_21,msgid599,1,Train,Yeah it's maybe let's try it with the smaller one then,Let's try it with a different let's try it with that phone for a second and see just to rule out like maybe this phone design is heavier on one side right
+207,3_21,msgid592,0,Train,Yeah it's maybe let's try it with the smaller one then,What if you removed the ten
+208,3_22,msgid592,0,Train,Do we want to say eighty,What if you removed the ten
+209,3_22,msgid593,1,Train,Do we want to say eighty,I think it's eighty now
+210,3_22,msgid413,1,Train,Do we want to say eighty,Yeah
+211,3_23,msgid601,1,Train,Are we allowed to use,Is it ok
+212,3_23,msgid603,1,Train,Are we allowed to use,Yeah it's maybe let's try it with the smaller one then
+213,3_23,msgid604,1,Train,Are we allowed to use,Just to test like
+214,3_24,msgid614,1,Train,Ok so we literally know nothing about the second block this sounds like a Bayesian probability question right,Uh there's a scale
+215,3_24,msgid610,1,Train,Ok so we literally know nothing about the second block this sounds like a Bayesian probability question right,Do we want to say eighty
+216,3_24,msgid612,1,Train,Ok so we literally know nothing about the second block this sounds like a Bayesian probability question right,Yeah it's too balanced
+217,3_25,msgid635,1,Train,Every possible weight up to one forty you think so we got ,So it must be a set so we should be able to make every possible weight here with these blocks they have one fifty two
+218,3_25,msgid629,1,Train,Every possible weight up to one forty you think so we got ,The second yes yeah so we have to use only this
+219,3_25,msgid630,1,Train,Every possible weight up to one forty you think so we got ,Well I assume we can use the second the first mystery block as a data point
+220,3_26,msgid658,1,Train,If we just used only two blocks then,Whatever like how did we guess eighty like we used only two blocks even for measurement of everything we just used two blocks so I'm thinking
+221,3_26,msgid643,1,Train,If we just used only two blocks then,We have ten two tens we have twenty we have thirty we can make forty with these three we can we have fifty
+222,3_26,msgid642,1,Train,If we just used only two blocks then,Ok yeah eighty plus fifty fifty and then yeah ok
+223,6_1,msgid1073,1,Train,Alright let's see if we can find a thirty,Alright let's see if we can find a twenty
+224,6_1,msgid1075,1,Train,Alright let's see if we can find a thirty,Way too heavy
+225,6_1,msgid1077,1,Train,Alright let's see if we can find a thirty,Looks like about twenty
+226,6_2,msgid1083,1,Train,cause purple block's also a twenty let's double check that purple block's not also a twenty,making sure that purple block didn't have the weight at the bottom
+227,6_2,msgid1084,1,Train,cause purple block's also a twenty let's double check that purple block's not also a twenty,"it's just stuff written at the bottom that's a so red block, green block's a ten and a twenty right now right that's looking"
+228,6_2,msgid1086,1,Train,cause purple block's also a twenty let's double check that purple block's not also a twenty,"red block, blue block, green block, yellow block, purple block're increments of ten i would say that's probably"
+229,6_3,msgid1073,0,Train,is blue block one a twenty,Alright let's see if we can find a twenty
+230,6_3,msgid1077,0,Train,is blue block one a twenty,Looks like about twenty
+231,6_3,msgid1088,1,Train,is blue block one a twenty,cause purple block's also a twenty let's double check that purple block's not also a twenty
+232,6_4,msgid1080,1,Train,so i would guess the yellow one is gonna be,so yellow block one is noticeably heavier than
+233,6_4,msgid1083,0,Train,so i would guess the yellow one is gonna be,making sure that purple block didn't have the weight at the bottom
+234,6_4,msgid1094,1,Train,so i would guess the yellow one is gonna be,"if red block, blue block, green block, yellow block, purple block're only in increments of ten purple block has to be"
+235,6_5,msgid1088,0,Train,"yeah purple block, green block's considerably heavier so purple block one did we say purple block was thirty",cause purple block's also a twenty let's double check that purple block's not also a twenty
+236,6_5,msgid1092,1,Train,"yeah purple block, green block's considerably heavier so purple block one did we say purple block was thirty",ok so purple block's more than twenty but it almost seems like the thirty takes it past but
+237,6_5,msgid1095,1,Train,"yeah purple block, green block's considerably heavier so purple block one did we say purple block was thirty",i think yeah purple block has to be thirty purple block
+238,6_6,msgid1109,1,Train,"did we try forty we did try forty because green block one's thirty and then blue block one's or green block one's twenty so purple block, blue block","but green block, purple block's too heavy"
+239,6_6,msgid1108,1,Train,"did we try forty we did try forty because green block one's thirty and then blue block one's or green block one's twenty so purple block, blue block",yellow block's definitely not thirty so yellow block has to
+240,6_8,msgid1139,1,Train,We can't use the scale but what else do we have that can be,Is it heavy
+241,6_8,msgid1133,1,Train,We can't use the scale but what else do we have that can be,so red was ten yellow was fifty we're great
+242,6_8,msgid1138,1,Train,We can't use the scale but what else do we have that can be,Fun oh boy
+243,6_9,msgid1145,1,Train,Are we allowed to make our own scales is there rules,We can't use the scale but what else do we have that can be
+244,6_9,msgid1139,0,Train,Are we allowed to make our own scales is there rules,Is it heavy
+245,6_10,msgid1145,0,Train,Or are you not allowed to tell us what we are allowed to do,We can't use the scale but what else do we have that can be
+246,6_10,msgid1146,1,Train,Or are you not allowed to tell us what we are allowed to do,Are we allowed to make our own scales is there rules
+247,6_10,msgid1139,0,Train,Or are you not allowed to tell us what we are allowed to do,Is it heavy
+248,6_11,msgid1157,1,Train,Which ones twenty this one,Oh that's a heavy one
+249,6_11,msgid1072,0,Train,Which ones twenty this one,i would agree yeah so blue block one's ten
+250,6_11,msgid1151,1,Train,Which ones twenty this one,I like your idea
+251,6_12,msgid1173,1,Train,I think we can all agree on that how heavier how heavy would you say,That felt to me like it was heavier than all of those
+252,6_12,msgid1174,1,Train,I think we can all agree on that how heavier how heavy would you say,So it's gotta be like a like heavier so it's over one twenty we know that so it's over one twenty
+253,6_12,msgid1162,1,Train,I think we can all agree on that how heavier how heavy would you say,Um yeah
+254,6_13,msgid1174,0,Train,Who can think of any other oh is there a liquid in there let's do some density stuff let's see drop the blocks into his coffee see how much it goes up,So it's gotta be like a like heavier so it's over one twenty we know that so it's over one twenty
+255,6_13,msgid1175,1,Train,Who can think of any other oh is there a liquid in there let's do some density stuff let's see drop the blocks into his coffee see how much it goes up,I think we can all agree on that how heavier how heavy would you say
+256,6_13,msgid1178,1,Train,Who can think of any other oh is there a liquid in there let's do some density stuff let's see drop the blocks into his coffee see how much it goes up,Well and it could be past the end of sheet if they're trying to be tricky
+257,6_14,msgid1174,0,Train,How much is the yellow one again,So it's gotta be like a like heavier so it's over one twenty we know that so it's over one twenty
+258,6_14,msgid1179,1,Train,How much is the yellow one again,Yeah she gives us up to one fifty on our survey
+259,6_14,msgid1180,1,Train,How much is the yellow one again,Who can think of any other oh is there a liquid in there let's do some density stuff let's see drop the blocks into his coffee see how much it goes up
+260,6_15,msgid1180,0,Train,Do you know how much the coffee weighs though,Who can think of any other oh is there a liquid in there let's do some density stuff let's see drop the blocks into his coffee see how much it goes up
+261,6_15,msgid1183,1,Train,Do you know how much the coffee weighs though,Drink enough coffee until it weighs the weight is
+262,6_15,msgid1185,1,Train,Do you know how much the coffee weighs though,How much is the yellow one again
+263,6_16,msgid1189,1,Train,I wonder if we can guess it's similar in weight to these three,We have one twenty we got at least forty so I would say one sixty
+264,6_16,msgid1197,1,Train,I wonder if we can guess it's similar in weight to these three,That's definitely our only options
+265,6_16,msgid1196,1,Train,I wonder if we can guess it's similar in weight to these three,See if some of these blocks weigh similar to my coffee
+266,6_17,msgid1213,1,Train,What do you guys think that makes sense yeah,So what do you have there two hundred
+267,6_17,msgid1224,1,Train,What do you guys think that makes sense yeah,Fifty thirty eighty
+268,6_18,msgid1224,0,Train,Are you guys good with eighty,Fifty thirty eighty
+269,6_18,msgid1223,1,Train,Are you guys good with eighty,Ten and ten make twenty ten and twenty make thirty twenty thirty fifty
+270,6_18,msgid1218,1,Train,Are you guys good with eighty,Ah think of a pattern
+271,8_2,msgid1742,1,Train,can i add the red one or blue one here maybe purple block might be thirty,"i'll just take red block, blue block off and then we can have a little more"
+272,8_2,msgid1739,1,Train,can i add the red one or blue one here maybe purple block might be thirty,or is green block
+273,8_2,msgid1740,1,Train,can i add the red one or blue one here maybe purple block might be thirty,yeah green is for twenty
+274,8_3,msgid1750,1,Train,did we measure we didn't measure the the yellow one right we might,"i mean the fact that it's teetering back and forth it's close enough red block, blue block, green block, yellow block, purple block're just increments of ten grams"
+275,8_3,msgid1746,1,Train,did we measure we didn't measure the the yellow one right we might,can i add the red one or blue one here maybe purple block might be thirty
+276,8_3,msgid1739,0,Train,did we measure we didn't measure the the yellow one right we might,or is green block
+277,8_4,msgid1746,0,Train,let's try both the green ones now i mean both the big ones yeah,can i add the red one or blue one here maybe purple block might be thirty
+278,8_4,msgid1748,1,Train,let's try both the green ones now i mean both the big ones yeah,so twenty purple block's thirty
+279,8_4,msgid1750,0,Train,let's try both the green ones now i mean both the big ones yeah,"i mean the fact that it's teetering back and forth it's close enough red block, blue block, green block, yellow block, purple block're just increments of ten grams"
+280,8_5,msgid1772,1,Train,But which one was thirty I'm just,green green is twenty so green is twenty and then we said purple block one is thirty right
+281,8_5,msgid1768,1,Train,But which one was thirty I'm just,purple block is twenty or thirty
+282,8_5,msgid1765,1,Train,But which one was thirty I'm just,what if we do the green one and the two smaller cubes
+283,8_6,msgid1791,1,Train,Like can we use a combination of,But we don't and less than fifty actually
+284,8_6,msgid1793,1,Train,Like can we use a combination of,Twenty plus ten thirty
+285,8_6,msgid1789,1,Train,Like can we use a combination of,So what if we do
+286,8_7,msgid1801,1,Train,"so we can move one of red block, blue block, purple block",yeah yellow block is between forty and fifty
+287,8_7,msgid1793,0,Train,"so we can move one of red block, blue block, purple block",Twenty plus ten thirty
+288,8_8,msgid1801,0,Train,we know yellow block's between forty and fifty we can't really,yeah yellow block is between forty and fifty
+289,8_8,msgid1799,1,Train,we know yellow block's between forty and fifty we can't really,Fifty is too heavy
+290,8_9,msgid1801,0,Train,directly compare yellow block um,yeah yellow block is between forty and fifty
+291,8_9,msgid1799,0,Train,directly compare yellow block um,Fifty is too heavy
+292,8_9,msgid1804,1,Train,directly compare yellow block um,we tried all of the combinations yeah yeah we can try this
+293,8_10,msgid1812,1,Train,where should we put yellow block then in forty,actually just adding one gram made it equal
+294,8_10,msgid1814,1,Train,where should we put yellow block then in forty,oh yeah cause it's a scale yeah so
+295,8_10,msgid1807,1,Train,where should we put yellow block then in forty,we know yellow block's between forty and fifty we can't really
+296,8_11,msgid1807,0,Train,presume because they didn't come to that sect right shall we try to measure yellow block accurately,we know yellow block's between forty and fifty we can't really
+297,8_11,msgid1809,1,Train,presume because they didn't come to that sect right shall we try to measure yellow block accurately,Cause everything else we know is like a multiple of ten so we just can't
+298,8_11,msgid1812,0,Train,presume because they didn't come to that sect right shall we try to measure yellow block accurately,actually just adding one gram made it equal
+299,8_12,msgid1812,0,Train,wait so is green block just in the wrong place or is green block the twenty,actually just adding one gram made it equal
+300,8_12,msgid1807,0,Train,wait so is green block just in the wrong place or is green block the twenty,we know yellow block's between forty and fifty we can't really
+301,8_12,msgid1800,1,Train,wait so is green block just in the wrong place or is green block the twenty,"i mean it could be just like how red block, blue block, green block were placed on like measured at like i don't know"
+302,8_14,msgid1812,0,Train,would you agree with that,actually just adding one gram made it equal
+303,8_14,msgid1816,0,Train,would you agree with that,so yellow block's forty one
+304,8_14,msgid1824,1,Train,would you agree with that,is green block in the wrong place or is green block ok so purple block is thirty fifty minus one so
+305,8_15,msgid1821,1,Train,Should we be precise to one gram,presume because they didn't come to that sect right shall we try to measure yellow block accurately
+306,8_15,msgid1829,1,Train,Should we be precise to one gram,ok so yellow block's probably meant to be just fifty and was placed differently
+307,8_15,msgid1836,1,Train,Should we be precise to one gram,should we double check anything or just assume that we got it
+308,8_16,msgid1829,0,Train,So you want to just like tell me the numbers cause,ok so yellow block's probably meant to be just fifty and was placed differently
+309,8_16,msgid1825,1,Train,So you want to just like tell me the numbers cause,shall we try that no it's twenty yeah one no not minus one minus nine
+310,8_16,msgid1822,1,Train,So you want to just like tell me the numbers cause,wait so is green block just in the wrong place or is green block the twenty
+311,8_17,msgid1846,1,Train,yeah and and um what's the other one blue blue is ten,so yellow is fifty they said yellow's cause it was forty so yellow's fifty green is twenty
+312,8_17,msgid1829,0,Train,yeah and and um what's the other one blue blue is ten,ok so yellow block's probably meant to be just fifty and was placed differently
+313,8_17,msgid1825,0,Train,yeah and and um what's the other one blue blue is ten,shall we try that no it's twenty yeah one no not minus one minus nine
+314,8_18,msgid1856,1,Train,mystery block,White block
+315,8_18,msgid1846,0,Train,mystery block,so yellow is fifty they said yellow's cause it was forty so yellow's fifty green is twenty
+316,8_19,msgid1839,1,Train,Is there any mystery block third weight,should we tenths length ok that's fine yeah
+317,8_19,msgid1837,1,Train,Is there any mystery block third weight,Should we be precise to one gram
+318,8_19,msgid1750,0,Train,Is there any mystery block third weight,"i mean the fact that it's teetering back and forth it's close enough red block, blue block, green block, yellow block, purple block're just increments of ten grams"
+319,8_20,msgid1871,1,Train,And do you think that like one of us should just like keep them stable so that you're only feeling the weight just cause otherwise one's going to be like less stable I don't know if that'll make a difference,I mean we could use a combination of these
+320,8_20,msgid1875,1,Train,And do you think that like one of us should just like keep them stable so that you're only feeling the weight just cause otherwise one's going to be like less stable I don't know if that'll make a difference,Um and if you notice they all have this kind of stuff written on them so maybe this is
+321,8_20,msgid1872,1,Train,And do you think that like one of us should just like keep them stable so that you're only feeling the weight just cause otherwise one's going to be like less stable I don't know if that'll make a difference,Actually since the like the density is different we can't actually compare directly
+322,8_21,msgid1892,1,Train,Want me to add the green,Can you add a ten for me 
+323,8_21,msgid1877,1,Train,Want me to add the green,Well they all say the same thing
+324,8_21,msgid1883,1,Train,Want me to add the green,We can feel a hole right here so maybe we can see how much is drilled out as well
+325,8_22,msgid1893,1,Train,A way of actually measuring it like with a scale like set up something that will have a tipping point or are we supposed do this by feel,And do you think that like one of us should just like keep them stable so that you're only feeling the weight just cause otherwise one's going to be like less stable I don't know if that'll make a difference
+326,8_22,msgid1889,1,Train,A way of actually measuring it like with a scale like set up something that will have a tipping point or are we supposed do this by feel,Or let's all like do what he's doing
+327,8_22,msgid1892,0,Train,A way of actually measuring it like with a scale like set up something that will have a tipping point or are we supposed do this by feel,Can you add a ten for me 
+328,8_23,msgid1899,1,Train,Are they the same size though,Lowkey add a ten
+329,8_23,msgid1909,1,Train,Are they the same size though,Uh it's this one we want now
+330,8_25,msgid1924,1,Train,So it's the yellow which was fifty grams right yellow purple,So we said like green was ten green was twenty
+331,8_25,msgid1925,1,Train,So it's the yellow which was fifty grams right yellow purple,Fifty plus
+332,8_25,msgid1929,1,Train,So it's the yellow which was fifty grams right yellow purple,Yellow was fifty
+333,8_26,msgid1947,1,Train,Ninety let's see are we good with ninety,Purple and a yellow green
+334,8_26,msgid1965,1,Train,Ninety let's see are we good with ninety,Added a ten
+335,8_26,msgid1945,1,Train,Ninety let's see are we good with ninety,So it's the yellow which was fifty grams right yellow purple
+336,8_27,msgid1976,1,Train,Is it the second mystery block,Uh it was eighty yep
+337,8_27,msgid1981,1,Train,Is it the second mystery block,If you were to add another ten pounds to make it a hundred it would have definitely tilted over
+338,8_28,msgid1981,0,Train,A second mystery block so I'm just wondering which two are moving about,If you were to add another ten pounds to make it a hundred it would have definitely tilted over
+339,8_28,msgid1974,1,Train,A second mystery block so I'm just wondering which two are moving about,It was about ready to fall but it didn't fall it needed to be touched so maybe it was a hundred
+340,8_29,msgid1989,1,Train,We don't have a mystery block the company forgot to send the block when you do estimate what the mystery block's weight was without knowing,There is no mystery block but we need to estimate the weight of it
+341,8_29,msgid1997,1,Train,We don't have a mystery block the company forgot to send the block when you do estimate what the mystery block's weight was without knowing,Create the wooden block do not send we have to
+342,8_30,msgid1995,1,Train,What do you think,A second mystery block so I'm just wondering which two are moving about
+343,8_30,msgid1988,1,Train,What do you think,Just right there
+344,8_30,msgid1986,1,Train,What do you think,Is it the second mystery block
+345,8_31,msgid2018,1,Train,For like each new block,Each block is the sum of the heaviest two
+346,8_31,msgid2000,1,Train,For like each new block,Even knowing what it is
+347,8_31,msgid2001,1,Train,For like each new block,My estimate was like we have two tens when we add two tens we get a twenty when you get twenty plus ten we get a thirty
+348,9_1,msgid2099,1,Train,I don't know if I trust you,Maybe
+349,9_1,msgid2098,1,Train,I don't know if I trust you,It's heavier than this too as well
+350,9_2,msgid2102,1,Train,What it's eighty grams I feel like it's ,Maybe it will right I'm not sure
+351,9_2,msgid2107,1,Train,What it's eighty grams I feel like it's ,Yeah I feel like oh we got all the way up to like one forty ok just kidding I thought it was just up to seventy I was like we'll just go with our maximum
+352,9_3,msgid2124,1,Train,Like no shot this is eighty grams,What it's eighty grams I feel like it's 
+353,9_3,msgid2111,1,Train,Like no shot this is eighty grams,I'd say it's probably at least one forty
+354,9_3,msgid2120,1,Train,Like no shot this is eighty grams,So we were wrong I guess then one fifty
+355,10_1,msgid2176,1,Train,let's assume that the bigger ones are,Yeah
+356,10_1,msgid2166,1,Train,let's assume that the bigger ones are,Oh okay
+357,10_1,msgid2167,1,Train,let's assume that the bigger ones are,Sorry
+358,10_2,msgid2179,1,Train,"i mean what why didn't we first check out whether red block, blue block two are equal red block, blue block are of equal size but",let's assume that the bigger ones are
+359,10_2,msgid2180,1,Train,"i mean what why didn't we first check out whether red block, blue block two are equal red block, blue block are of equal size but",let's put two yeah red one as well
+360,10_2,msgid2185,1,Train,"i mean what why didn't we first check out whether red block, blue block two are equal red block, blue block are of equal size but","i guess green block is like twenty and red block, blue block is like ten and ten"
+361,10_4,msgid2211,1,Train,"do green block, purple block, yellow block make sense",cause i have a feeling purple block is a little more
+362,10_4,msgid2217,1,Train,"do green block, purple block, yellow block make sense","i'm guessing it's a little bit to the left a little bit to the left like it touches the red line but on the left hand side of the left line red red block, blue block, green block's gonna be heavier like not equal but almost almost equal how do wait how do we know green block one's twenty did we no we didn't"
+363,10_4,msgid2218,1,Train,"do green block, purple block, yellow block make sense",yeah so let's try to put blue block on top and see okay so it's definitely not like fourty like thirty two thirty three what do you say cause green block one's twenty red block one's ten cause we did it
+364,10_5,msgid2225,1,Train,Do you wanna try any tens anywhere,What's left
+365,10_5,msgid2166,0,Train,Do you wanna try any tens anywhere,Oh okay
+366,10_5,msgid2223,1,Train,Do you wanna try any tens anywhere,So okay Cool
+367,10_6,msgid2228,1,Train,"like if green block, purple block are more than fifty then yellow block is less yeah",so purple block one's thirty and what's green block one twenty right twenty okay so yellow block one's gonna be fifty okay
+368,10_6,msgid2221,1,Train,"like if green block, purple block are more than fifty then yellow block is less yeah",to begin with also like we don't really have time to do this
+369,10_6,msgid2219,1,Train,"like if green block, purple block are more than fifty then yellow block is less yeah",we we moved green block and checked the two tens remember we didn't do green block one okay yeah sure sure sure yeah yeah put thirty thirty yeah
+370,10_7,msgid2237,1,Train,should i oh yeah yellow block is fifty grams,just a sec let this settle now yeah
+371,10_7,msgid2228,0,Train,should i oh yeah yellow block is fifty grams,so purple block one's thirty and what's green block one twenty right twenty okay so yellow block one's gonna be fifty okay
+372,10_7,msgid2241,1,Train,should i oh yeah yellow block is fifty grams,"like if green block, purple block are more than fifty then yellow block is less yeah"
+373,10_8,msgid2268,1,Train,"you know what like i feel that is blue block, red block what the other thing too is purple because blue and red makes purple right",purple's purple block one thirty
+374,10_8,msgid2267,1,Train,"you know what like i feel that is blue block, red block what the other thing too is purple because blue and red makes purple right",blue and reds well they don't have the right uh purple thirty right yeah alright let's do it
+375,10_8,msgid2266,1,Train,"you know what like i feel that is blue block, red block what the other thing too is purple because blue and red makes purple right",tens tens are blue blue and red yup
+376,10_9,msgid2262,1,Train,where is the mystery block any idea,so the yellow one's fifty yeah green wait green's twenty
+377,10_9,msgid2276,1,Train,where is the mystery block any idea,green is twenty i mean we're we're right right i mean we're exactly right
+378,10_9,msgid2278,1,Train,where is the mystery block any idea,no the red is ten blue is ten yellow is fifty okay
+379,10_10,msgid2259,1,Train,indicate the weight of the mystery block whoa where is the blue guy,Ten I guess
+380,10_10,msgid2263,1,Train,indicate the weight of the mystery block whoa where is the blue guy,Fifty Yeah Twenty
+381,10_10,msgid2269,1,Train,indicate the weight of the mystery block whoa where is the blue guy,"you know what like i feel that is blue block, red block what the other thing too is purple because blue and red makes purple right"
+382,10_11,msgid2282,1,Train,"i would say still heavier than all mystery block blocks yeah can you grab there and hold red block, blue block, green block, purple block, yellow block",you have two attempts mystery block's heavier than everything else
+383,10_11,msgid2281,1,Train,"i would say still heavier than all mystery block blocks yeah can you grab there and hold red block, blue block, green block, purple block, yellow block",indicate the weight of the mystery block whoa where is the blue guy
+384,10_11,msgid2278,0,Train,"i would say still heavier than all mystery block blocks yeah can you grab there and hold red block, blue block, green block, purple block, yellow block",no the red is ten blue is ten yellow is fifty okay
+385,10_12,msgid2313,1,Train,"because two tens two tens there's two so the thing is like if we put yellow block, purple block, green block, red block also feels lighter right","like like wait let's remove red block, blue block two let's check yellow block, purple block, green block one is lighter right on the right side"
+386,10_12,msgid2302,1,Train,"because two tens two tens there's two so the thing is like if we put yellow block, purple block, green block, red block also feels lighter right",Suppose I remove the tens ones then
+387,10_12,msgid2304,1,Train,"because two tens two tens there's two so the thing is like if we put yellow block, purple block, green block, red block also feels lighter right","how are you how are you really holding i'm just moving blocks and seeing yeah red block, blue block, green block, purple block, yellow block is lighter red block, blue block, green block, purple block, yellow block is lighter if i put the ten"
+388,10_13,msgid2313,0,Train,"red block, blue block, green block, purple block, yellow block, mystery block feels same almost try it","like like wait let's remove red block, blue block two let's check yellow block, purple block, green block one is lighter right on the right side"
+389,10_13,msgid2317,1,Train,"red block, blue block, green block, purple block, yellow block, mystery block feels same almost try it","how much is yellow block, purple block, green block so we have fifty thirty eighty ten hundred hundred and twenty"
+390,10_13,msgid2330,1,Train,"red block, blue block, green block, purple block, yellow block, mystery block feels same almost try it",i i was thinking maybe a little bit higher instead of lower but that also makes sense because i don't know any better
+391,10_14,msgid2317,0,Train,i mean this is very difficult why don't we just guess,"how much is yellow block, purple block, green block so we have fifty thirty eighty ten hundred hundred and twenty"
+392,10_14,msgid2332,1,Train,i mean this is very difficult why don't we just guess,"red block, blue block, green block, purple block, yellow block, mystery block feels same almost try it"
+393,10_15,msgid2327,1,Train,well if we're going to put a hundred and ten what no that's what i said this is alone it's it's hundred but what do you want to do first i think we should go with a hundred and ten first then if y'all agree we can go with a hundred next right,I think one twenty and one ten would be a good idea because we have two chances
+394,10_15,msgid2332,0,Train,well if we're going to put a hundred and ten what no that's what i said this is alone it's it's hundred but what do you want to do first i think we should go with a hundred and ten first then if y'all agree we can go with a hundred next right,"red block, blue block, green block, purple block, yellow block, mystery block feels same almost try it"
+395,10_15,msgid2337,1,Train,well if we're going to put a hundred and ten what no that's what i said this is alone it's it's hundred but what do you want to do first i think we should go with a hundred and ten first then if y'all agree we can go with a hundred next right,"no no no no so the thing is like when you put blue block red block, blue block, green block, purple block, yellow block, mystery block feels almost same because blue block's just ten gram difference that's why let let's try it yeah"
+396,10_16,msgid2339,1,Train,like just because of just becasuse that's fibonacci because i'm not sure what this hint is this is saying relationship between the weights which means,i mean this is very difficult why don't we just guess
+397,10_16,msgid2355,1,Train,like just because of just becasuse that's fibonacci because i'm not sure what this hint is this is saying relationship between the weights which means,ten ten green block is what twenty right one plus one two yup two plus one three yup three plus two five oh yeah yellow block's fifty
+398,10_16,msgid2342,1,Train,like just because of just becasuse that's fibonacci because i'm not sure what this hint is this is saying relationship between the weights which means,well if we're going to put a hundred and ten what no that's what i said this is alone it's it's hundred but what do you want to do first i think we should go with a hundred and ten first then if y'all agree we can go with a hundred next right
+399,10_17,msgid2362,1,Train,But eighty is a big difference like you know from a hundred to an eighty Well let's try to see if there is a hint here,We don't really have to be correct I mean we're trying to be correct but
+400,10_17,msgid2355,0,Train,But eighty is a big difference like you know from a hundred to an eighty Well let's try to see if there is a hint here,ten ten green block is what twenty right one plus one two yup two plus one three yup three plus two five oh yeah yellow block's fifty
+401,10_17,msgid2356,1,Train,But eighty is a big difference like you know from a hundred to an eighty Well let's try to see if there is a hint here,and five plus three eight yeah let's go for eighty then that's a pattern that's it
+402,10_18,msgid2250,1,Train,Eighty let's let's go for eighty Yeah,and yellow block's fifty
+403,10_18,msgid2356,0,Train,Eighty let's let's go for eighty Yeah,and five plus three eight yeah let's go for eighty then that's a pattern that's it
+404,10_18,msgid2352,1,Train,Eighty let's let's go for eighty Yeah,wait wait what's two three five eight thirteen twenty eighty yeah that's fibonacci definitely
+405,10_19,msgid2365,1,Train,Is that the first mystery block or the second mystery block,mystery block is eight rb i think mystery block mystery block is eighty
+406,10_19,msgid2369,1,Train,Is that the first mystery block or the second mystery block,Eighty gram sounds seems like a ninety gram to me but
+407,1_1,msgid31,1,Train,what would we maybe put blue block one on there too,yeah ok so now we know that blue block is also ten
+408,1_1,msgid1,1,Train,what would we maybe put blue block one on there too,Alright so
+409,1_1,msgid32,1,Train,what would we maybe put blue block one on there too,Um ok so now
+410,1_3,msgid30,0,Train,and green is twenty ok so which one is blue and which one is purple,"red block, blue block seems pretty balanced"
+411,1_3,msgid23,1,Train,and green is twenty ok so which one is blue and which one is purple,Ok
+412,1_3,msgid80,1,Train,and green is twenty ok so which one is blue and which one is purple,yo that's close enough ok so
+413,1_4,msgid69,1,Train,yes verify real quick but i think purple block is,it's just like slightly
+414,1_4,msgid14,1,Train,yes verify real quick but i think purple block is,it's right there
+415,1_4,msgid0,1,Train,yes verify real quick but i think purple block is,I just need to calibrate my cameras real quick
+416,1_5,msgid65,1,Train,Yes do you want to check real quick,"yeah im thinking that red block, blue block, green block, yellow block, purple block's ten ten twenty thirty"
+417,1_5,msgid30,0,Train,Yes do you want to check real quick,"red block, blue block seems pretty balanced"
+418,1_5,msgid11,1,Train,Yes do you want to check real quick,And uh as you are filling it out if you guys can fill out the survey you will be group one
+419,1_6,msgid111,1,Train,How much was purple thirty,Yeah
+420,1_6,msgid51,1,Train,How much was purple thirty,Twenty thirty forty
+421,1_6,msgid61,1,Train,How much was purple thirty,how much is the dark blue small one ten
+422,1_7,msgid61,0,Train,I almost feel like this one is still heavier,how much is the dark blue small one ten
+423,1_7,msgid116,1,Train,I almost feel like this one is still heavier,Purple was thirty
+424,1_7,msgid4,1,Train,I almost feel like this one is still heavier,Um and then
+425,1_8,msgid28,1,Train,This one feels heavier still add like ten to this side I think,Does the slider move
+426,1_8,msgid7,1,Train,This one feels heavier still add like ten to this side I think,So uh
+427,1_8,msgid22,1,Train,This one feels heavier still add like ten to this side I think,And you guys will be group one
+428,1_9,msgid116,0,Train,It still feels heavier but it could just be,Purple was thirty
+429,1_9,msgid39,1,Train,It still feels heavier but it could just be,No  
+430,1_9,msgid68,1,Train,It still feels heavier but it could just be,And then we did fifty
+431,1_10,msgid29,0,Train,Yeah that feels pretty pretty similar to me and try switching it left hand right hand maybe,Hold on lets just uh
+432,1_10,msgid47,1,Train,Yeah that feels pretty pretty similar to me and try switching it left hand right hand maybe,Ooh its looking like thirty
+433,1_10,msgid50,1,Train,Yeah that feels pretty pretty similar to me and try switching it left hand right hand maybe,Yeah ten ten twenty thirty
+434,1_11,msgid37,1,Train,Two attempts a hundred will it tell us if we get it right or wrong ok,purple block's more
+435,1_11,msgid131,1,Train,Two attempts a hundred will it tell us if we get it right or wrong ok,That's a hundred
+436,1_11,msgid90,1,Train,Two attempts a hundred will it tell us if we get it right or wrong ok,Yes thirty
+437,1_12,msgid115,0,Train,So would you,How much was purple thirty
+438,1_12,msgid89,0,Train,So would you,yes verify real quick but i think purple block is
+439,1_12,msgid139,1,Train,So would you,Thirty twenty
+440,2_1,msgid247,1,Train,Which is too much so we'll put twenty right,and that looks like it might be about even
+441,2_1,msgid257,1,Train,Which is too much so we'll put twenty right,Twenty probably
+442,2_1,msgid249,1,Train,Which is too much so we'll put twenty right,there we go that's better
+443,2_2,msgid235,1,Train,"wait did we mix purple block, green block up or","and i i think red block, blue block are"
+444,2_2,msgid237,1,Train,"wait did we mix purple block, green block up or","yeah red block, blue block also just look like relatively the same size but red block, blue block could be different material you know"
+445,2_2,msgid225,1,Train,"wait did we mix purple block, green block up or",Using the scale um
+446,2_3,msgid270,1,Train,blue or purple,putting purple block on that side checking yellow block one
+447,2_3,msgid233,1,Train,blue or purple,so i would imagine if this
+448,2_3,msgid273,1,Train,blue or purple,it's leaning towards one side a bit much
+449,2_4,msgid241,1,Train,i think purple or,and then if blue block's ten grams then we have a two
+450,2_4,msgid247,0,Train,i think purple or,and that looks like it might be about even
+451,2_4,msgid257,0,Train,i think purple or,Twenty probably
+452,2_5,msgid238,1,Train,wait a mystery block,Even length
+453,2_5,msgid294,1,Train,wait a mystery block,Ok yep
+454,2_5,msgid268,1,Train,wait a mystery block,Accuracy wise so then you know
+455,2_6,msgid243,1,Train,Do you want to give it a shot,Yeah
+456,2_6,msgid224,1,Train,Do you want to give it a shot,You are going to determine the rest of the weights using them
+457,2_6,msgid220,1,Train,Do you want to give it a shot,So the task you are completing today is called the weights task
+458,2_7,msgid308,1,Train,Is the can the weight exceed what's on the paper,That also seems similar
+459,2_7,msgid304,1,Train,Is the can the weight exceed what's on the paper,Alright uh we are allowed to use the other blocks in holding the weight
+460,2_7,msgid317,1,Train,Is the can the weight exceed what's on the paper,So yeah  
+461,2_8,msgid300,1,Train,Is it wrong,For the next part of your task you will determine the weight of this mystery block
+462,2_8,msgid337,1,Train,Is it wrong,One forty
+463,2_8,msgid228,1,Train,Is it wrong,You guys are going to be group two
+464,2_9,msgid237,0,Train,So we can try and,"yeah red block, blue block also just look like relatively the same size but red block, blue block could be different material you know"
+465,2_9,msgid317,0,Train,So we can try and,So yeah  
+466,2_9,msgid333,1,Train,So we can try and,I was thinking one forty first as well but um
+467,2_10,msgid219,1,Train,Were we right then,Callibrate my cameras real quick
+468,2_10,msgid282,1,Train,Were we right then,No
+469,2_10,msgid336,1,Train,Were we right then,Sorry one fifty since it's on there
+470,2_11,msgid322,0,Train,No you're wrong it was eighty,I might shoot all the way for the one forty
+471,2_11,msgid373,1,Train,No you're wrong it was eighty,Were we right then
+472,2_11,msgid358,1,Train,No you're wrong it was eighty,Because it says think about the relationship between the weights of the power blocks
+473,2_12,msgid273,0,Train,And then like every set of two I guess and the next block will be the set,it's leaning towards one side a bit much
+474,2_12,msgid287,1,Train,And then like every set of two I guess and the next block will be the set,i think purple or
+475,2_12,msgid381,1,Train,And then like every set of two I guess and the next block will be the set,Ok for the final part of the task read the scenario and estimate the weight of the
+476,2_13,msgid346,1,Train,Least heavy to most heavy or,Yeah
+477,2_13,msgid338,1,Train,Least heavy to most heavy or,Yeah
+478,2_13,msgid333,0,Train,Least heavy to most heavy or,I was thinking one forty first as well but um
+479,3_1,msgid407,1,Train,"so you think red block, blue block're the same weight or",Like it it drops one's probably heavier
+480,3_1,msgid405,1,Train,"so you think red block, blue block're the same weight or",You don't need to use the slider or anything 
+481,3_1,msgid404,1,Train,"so you think red block, blue block're the same weight or",All of the weights are in intervals of ten grams
+482,3_2,msgid425,1,Train,yellow block one feels just a smidge heavier yeah try green block one,the blue one is also ten right
+483,3_2,msgid421,1,Train,yellow block one feels just a smidge heavier yeah try green block one,Right here right
+484,3_2,msgid429,1,Train,yellow block one feels just a smidge heavier yeah try green block one,the suspense is killing me it takes forever
+485,3_4,msgid420,1,Train,wait purple is how much purple was thirty,So the 
+486,3_4,msgid408,1,Train,wait purple is how much purple was thirty,Um and then
+487,3_4,msgid448,1,Train,wait purple is how much purple was thirty,yeah i mentioned here green is twenty
+488,3_5,msgid455,1,Train,"have we tried red block, blue block two and the green one cause it's",wait purple is how much purple was thirty
+489,3_5,msgid414,1,Train,"have we tried red block, blue block two and the green one cause it's","so you think red block, blue block're the same weight or"
+490,3_5,msgid416,1,Train,"have we tried red block, blue block two and the green one cause it's","i think red block, blue block're the same weight yeah"
+491,3_6,msgid440,1,Train,"no so when we try purple block, green block both",i think purple block is more purple-y yeah
+492,3_6,msgid459,1,Train,"no so when we try purple block, green block both",Twenty
+493,3_6,msgid409,1,Train,"no so when we try purple block, green block both",You will place the cubes on the worksheet where you think they are and you will also record your answers here on this survey here on the computer. You guys will be group three
+494,3_7,msgid458,1,Train,"yellow block must be red block, blue block, purple block right because comparing yellow block to forty yellow block's",and green is
+495,3_7,msgid447,1,Train,"yellow block must be red block, blue block, purple block right because comparing yellow block to forty yellow block's",it seems to be
+496,3_7,msgid420,0,Train,"yellow block must be red block, blue block, purple block right because comparing yellow block to forty yellow block's",So the 
+497,3_8,msgid435,1,Train,maybe we should try those things here,So
+498,3_8,msgid420,0,Train,maybe we should try those things here,So the 
+499,3_8,msgid423,1,Train,maybe we should try those things here,So 
+500,3_9,msgid425,0,Train,Is there a way for us to test it other than just our,the blue one is also ten right
+501,3_9,msgid408,0,Train,Is there a way for us to test it other than just our,Um and then
+502,3_9,msgid456,1,Train,Is there a way for us to test it other than just our,purple is thirty
+503,3_10,msgid482,1,Train,I have a question ok somebody like hold the yellow and the brown like,Try what then
+504,3_10,msgid499,1,Train,I have a question ok somebody like hold the yellow and the brown like,I bet there's a scale app on our phone and I bet it's cheating to download that
+505,3_10,msgid490,1,Train,I have a question ok somebody like hold the yellow and the brown like,Green is twenty purple is thirty and yellow is fifty yeah good
+506,3_11,msgid408,0,Train,But like tell me when it starts to feel the same,Um and then
+507,3_11,msgid405,0,Train,But like tell me when it starts to feel the same,You don't need to use the slider or anything 
+508,3_11,msgid428,1,Train,But like tell me when it starts to feel the same,Um I'm going to see if there's a lighter one
+509,3_12,msgid424,1,Train,How do you feel this one is lighter,So
+510,3_12,msgid448,0,Train,How do you feel this one is lighter,yeah i mentioned here green is twenty
+511,3_12,msgid454,1,Train,How do you feel this one is lighter,Yeah just to confirm
+512,3_13,msgid443,1,Train,I feel like this like might be a smidge heavier but,yellow block one feels just a smidge heavier yeah try green block one
+513,3_13,msgid485,1,Train,I feel like this like might be a smidge heavier but,Yeah until fifty
+514,3_13,msgid405,0,Train,I feel like this like might be a smidge heavier but,You don't need to use the slider or anything 
+515,3_14,msgid515,1,Train,Definitely heavier right,But like tell me when it starts to feel the same
+516,3_14,msgid510,1,Train,Definitely heavier right,It's not twice as heavy as yellow
+517,3_14,msgid415,1,Train,Definitely heavier right,"red block, blue block're still teetering"
+518,3_15,msgid503,1,Train,Does uh like heavier objects roll down the incline plane faster,Eighty to ninety
+519,3_15,msgid449,1,Train,Does uh like heavier objects roll down the incline plane faster,it's leaning more this side so
+520,3_15,msgid524,1,Train,Does uh like heavier objects roll down the incline plane faster,How do you feel this one is lighter
+521,3_16,msgid527,1,Train,Does this really heavier than this for sure,I don't know hang on
+522,3_16,msgid477,1,Train,Does this really heavier than this for sure,twenty green yeah
+523,3_16,msgid523,1,Train,Does this really heavier than this for sure,Yeah yeah try it try it again
+524,3_17,msgid518,1,Train,What if,I was trying to take the the visual input out of it
+525,3_17,msgid568,1,Train,What if,It's eighty
+526,3_17,msgid491,0,Train,What if,Oh fun
+527,3_18,msgid534,1,Train,So then theory do we have these positioned the same,I think this is heavier now I was thinking like if you have
+528,3_18,msgid541,1,Train,So then theory do we have these positioned the same,I think we would have to have really good measures yeah yeah
+529,3_18,msgid530,1,Train,So then theory do we have these positioned the same,Definitely heavier right
+530,3_19,msgid576,1,Train,What if you removed the ten,So it's ninety
+531,3_19,msgid407,0,Train,What if you removed the ten,Like it it drops one's probably heavier
+532,3_19,msgid434,1,Train,What if you removed the ten,i think that's a good guess
+533,3_20,msgid501,1,Train,Let's try it with a different let's try it with that phone for a second and see just to rule out like maybe this phone design is heavier on one side right,Yeah it could be eighty ninety
+534,3_20,msgid583,1,Train,Let's try it with a different let's try it with that phone for a second and see just to rule out like maybe this phone design is heavier on one side right,Yes  
+535,3_20,msgid534,0,Train,Let's try it with a different let's try it with that phone for a second and see just to rule out like maybe this phone design is heavier on one side right,I think this is heavier now I was thinking like if you have
+536,3_21,msgid489,1,Train,Yeah it's maybe let's try it with the smaller one then,Ok so for the next part if the test you are going to determine the weight of this block without using the scale to get the answer
+537,3_21,msgid529,0,Train,Yeah it's maybe let's try it with the smaller one then,Now I feel like the right side
+538,3_21,msgid557,1,Train,Yeah it's maybe let's try it with the smaller one then,So it's still pretty even it's still pretty even
+539,3_22,msgid591,0,Train,Do we want to say eighty,If only our block was a little just narrow sliver
+540,3_22,msgid449,0,Train,Do we want to say eighty,it's leaning more this side so
+541,3_22,msgid533,1,Train,Do we want to say eighty,Ok
+542,3_23,msgid424,0,Train,Are we allowed to use,So
+543,3_23,msgid527,0,Train,Are we allowed to use,I don't know hang on
+544,3_23,msgid492,1,Train,Are we allowed to use,And you can begin now
+545,3_24,msgid552,1,Train,Ok so we literally know nothing about the second block this sounds like a Bayesian probability question right,Oops put both at a time maybe
+546,3_24,msgid467,1,Train,Ok so we literally know nothing about the second block this sounds like a Bayesian probability question right,yeah green is twenty and purple is thirty
+547,3_24,msgid609,1,Train,Ok so we literally know nothing about the second block this sounds like a Bayesian probability question right,Narrow down that like ten gram window
+548,3_25,msgid477,0,Train,Every possible weight up to one forty you think so we got ,twenty green yeah
+549,3_25,msgid595,1,Train,Every possible weight up to one forty you think so we got ,Yeah but when it but 
+550,3_25,msgid514,0,Train,Every possible weight up to one forty you think so we got ,This is heavier I can
+551,3_26,msgid556,1,Train,If we just used only two blocks then,Just once remove this block
+552,3_26,msgid640,1,Train,If we just used only two blocks then,And we can make it up to one fifty so if we find a block which can make
+553,3_26,msgid634,1,Train,If we just used only two blocks then,Like they have two one forty grams
+554,6_1,msgid1069,1,Train,Alright let's see if we can find a thirty,i guess if red block red one's ten grams
+555,6_1,msgid1071,1,Train,Alright let's see if we can find a thirty,"seems like red block, blue block might be about the same"
+556,6_1,msgid1061,1,Train,Alright let's see if we can find a thirty,The task that you will be completing today is called the weights task
+557,6_2,msgid1074,1,Train,cause purple block's also a twenty let's double check that purple block's not also a twenty,Too heavy so
+558,6_2,msgid1072,1,Train,cause purple block's also a twenty let's double check that purple block's not also a twenty,i would agree yeah so blue block one's ten
+559,6_2,msgid1067,1,Train,cause purple block's also a twenty let's double check that purple block's not also a twenty,Um that is on this computer
+560,6_3,msgid1062,1,Train,is blue block one a twenty,In the first part you are going to work together to determine the weights of these colorful cubes here
+561,6_3,msgid1076,1,Train,is blue block one a twenty,this is a sensitive scale
+562,6_3,msgid1085,1,Train,is blue block one a twenty,Well
+563,6_4,msgid1097,1,Train,so i would guess the yellow one is gonna be,so big blue is probably thirty
+564,6_4,msgid1076,0,Train,so i would guess the yellow one is gonna be,this is a sensitive scale
+565,6_4,msgid1082,1,Train,so i would guess the yellow one is gonna be,the purple ish one
+566,6_5,msgid1097,0,Train,"yeah purple block, green block's considerably heavier so purple block one did we say purple block was thirty",so big blue is probably thirty
+567,6_5,msgid1098,1,Train,"yeah purple block, green block's considerably heavier so purple block one did we say purple block was thirty",Of the weight
+568,6_5,msgid1062,0,Train,"yeah purple block, green block's considerably heavier so purple block one did we say purple block was thirty",In the first part you are going to work together to determine the weights of these colorful cubes here
+569,6_6,msgid1084,0,Train,"did we try forty we did try forty because green block one's thirty and then blue block one's or green block one's twenty so purple block, blue block","it's just stuff written at the bottom that's a so red block, green block's a ten and a twenty right now right that's looking"
+570,6_6,msgid1075,0,Train,"did we try forty we did try forty because green block one's thirty and then blue block one's or green block one's twenty so purple block, blue block",Way too heavy
+571,6_6,msgid1086,0,Train,"did we try forty we did try forty because green block one's thirty and then blue block one's or green block one's twenty so purple block, blue block","red block, blue block, green block, yellow block, purple block're increments of ten i would say that's probably"
+572,6_8,msgid1115,1,Train,We can't use the scale but what else do we have that can be,big blue
+573,6_8,msgid1066,1,Train,We can't use the scale but what else do we have that can be,Um so as you work through the tasks if you can place the cubes on the sheet where they go and also fill out the survey
+574,6_8,msgid1082,0,Train,We can't use the scale but what else do we have that can be,the purple ish one
+575,6_9,msgid1102,1,Train,Are we allowed to make our own scales is there rules,Fifty
+576,6_9,msgid1088,0,Train,Are we allowed to make our own scales is there rules,cause purple block's also a twenty let's double check that purple block's not also a twenty
+577,6_9,msgid1110,1,Train,Are we allowed to make our own scales is there rules,so that's
+578,6_10,msgid1130,1,Train,Or are you not allowed to tell us what we are allowed to do,i think purple block one's purple so blue was ten and then purple was thirty
+579,6_10,msgid1075,0,Train,Or are you not allowed to tell us what we are allowed to do,Way too heavy
+580,6_10,msgid1137,1,Train,Or are you not allowed to tell us what we are allowed to do,Alright guys
+581,6_11,msgid1098,0,Train,Which ones twenty this one,Of the weight
+582,6_11,msgid1154,1,Train,Which ones twenty this one,More right yeah
+583,6_11,msgid1152,1,Train,Which ones twenty this one,We're getting close
+584,6_12,msgid1144,1,Train,I think we can all agree on that how heavier how heavy would you say,Ok  
+585,6_12,msgid1119,1,Train,I think we can all agree on that how heavier how heavy would you say,i would say yellow is like forty five but we could say fifty since we're
+586,6_12,msgid1121,1,Train,I think we can all agree on that how heavier how heavy would you say,forced with these
+587,6_13,msgid1063,1,Train,Who can think of any other oh is there a liquid in there let's do some density stuff let's see drop the blocks into his coffee see how much it goes up,I will tell you that the red cube is ten grams
+588,6_13,msgid1155,1,Train,Who can think of any other oh is there a liquid in there let's do some density stuff let's see drop the blocks into his coffee see how much it goes up,Yeah maybe one of these
+589,6_13,msgid1137,0,Train,Who can think of any other oh is there a liquid in there let's do some density stuff let's see drop the blocks into his coffee see how much it goes up,Alright guys
+590,6_14,msgid1116,1,Train,How much is the yellow one again,"unless she's messing with us and some of red block, blue block, green block, purple block, yellow block are in increments of five"
+591,6_14,msgid1124,1,Train,How much is the yellow one again,Have you filled it out on the computer you guys are group six
+592,6_14,msgid1158,1,Train,How much is the yellow one again,Yeah
+593,6_15,msgid1132,1,Train,Do you know how much the coffee weighs though,Yes
+594,6_15,msgid1161,1,Train,Do you know how much the coffee weighs though,Which ones twenty this one
+595,6_15,msgid1171,1,Train,Do you know how much the coffee weighs though,Alright so how much do we have here one twenty total
+596,6_16,msgid1113,1,Train,I wonder if we can guess it's similar in weight to these three,yeah green and big blue
+597,6_16,msgid1103,1,Train,I wonder if we can guess it's similar in weight to these three,Oh maybe not
+598,6_16,msgid1192,1,Train,I wonder if we can guess it's similar in weight to these three,I'm I'm good with it it's real heavy
+599,6_17,msgid1179,0,Train,What do you guys think that makes sense yeah,Yeah she gives us up to one fifty on our survey
+600,6_17,msgid1073,0,Train,What do you guys think that makes sense yeah,Alright let's see if we can find a twenty
+601,6_17,msgid1132,0,Train,What do you guys think that makes sense yeah,Yes
+602,6_18,msgid1111,1,Train,Are you guys good with eighty,"purple block, green block is fifty on here so then"
+603,6_18,msgid1152,0,Train,Are you guys good with eighty,We're getting close
+604,6_18,msgid1107,1,Train,Are you guys good with eighty,red and small blue are both ten
+605,8_2,msgid1741,1,Train,can i add the red one or blue one here maybe purple block might be thirty,Ok so now
+606,8_2,msgid1745,1,Train,can i add the red one or blue one here maybe purple block might be thirty,it's ok
+607,8_2,msgid1744,1,Train,can i add the red one or blue one here maybe purple block might be thirty,Sorry
+608,8_3,msgid1744,0,Train,did we measure we didn't measure the the yellow one right we might,Sorry
+609,8_3,msgid1747,1,Train,did we measure we didn't measure the the yellow one right we might,Cause yeah
+610,8_3,msgid1745,0,Train,did we measure we didn't measure the the yellow one right we might,it's ok
+611,8_4,msgid1755,1,Train,let's try both the green ones now i mean both the big ones yeah,did we measure we didn't measure the the yellow one right we might
+612,8_4,msgid1745,0,Train,let's try both the green ones now i mean both the big ones yeah,it's ok
+613,8_4,msgid1757,1,Train,let's try both the green ones now i mean both the big ones yeah,Oh I thought ok 
+614,8_5,msgid1780,1,Train,But which one was thirty I'm just,oh yellow block's more than forty
+615,8_5,msgid1770,1,Train,But which one was thirty I'm just,yeah i feel that way
+616,8_5,msgid1781,1,Train,But which one was thirty I'm just,So let's see the weights we know
+617,8_6,msgid1790,1,Train,Like can we use a combination of,yellow block is more than forty
+618,8_6,msgid1777,1,Train,Like can we use a combination of,"red block, purple block's too light and we know that green is equal to"
+619,8_6,msgid1740,0,Train,Like can we use a combination of,yeah green is for twenty
+620,8_7,msgid1777,0,Train,"so we can move one of red block, blue block, purple block","red block, purple block's too light and we know that green is equal to"
+621,8_7,msgid1742,0,Train,"so we can move one of red block, blue block, purple block","i'll just take red block, blue block off and then we can have a little more"
+622,8_7,msgid1751,1,Train,"so we can move one of red block, blue block, purple block",yeah so the blue one is thirty
+623,8_8,msgid1739,0,Train,we know yellow block's between forty and fifty we can't really,or is green block
+624,8_8,msgid1798,1,Train,we know yellow block's between forty and fifty we can't really,Fifty so heavy or
+625,8_8,msgid1759,1,Train,we know yellow block's between forty and fifty we can't really,let's try both the green ones now i mean both the big ones yeah
+626,8_9,msgid1795,1,Train,directly compare yellow block um,Forty
+627,8_9,msgid1793,0,Train,directly compare yellow block um,Twenty plus ten thirty
+628,8_9,msgid1794,1,Train,directly compare yellow block um,Thirty  
+629,8_10,msgid1772,0,Train,where should we put yellow block then in forty,green green is twenty so green is twenty and then we said purple block one is thirty right
+630,8_10,msgid1802,1,Train,where should we put yellow block then in forty,Like can we use a combination of
+631,8_10,msgid1766,1,Train,where should we put yellow block then in forty,cause that's going to be pushing that way
+632,8_11,msgid1788,1,Train,presume because they didn't come to that sect right shall we try to measure yellow block accurately,Yeah twenty  
+633,8_11,msgid1749,1,Train,presume because they didn't come to that sect right shall we try to measure yellow block accurately,Yeah  
+634,8_11,msgid1816,1,Train,presume because they didn't come to that sect right shall we try to measure yellow block accurately,so yellow block's forty one
+635,8_12,msgid1808,1,Train,wait so is green block just in the wrong place or is green block the twenty,We can add weight
+636,8_12,msgid1815,1,Train,wait so is green block just in the wrong place or is green block the twenty,Yeah
+637,8_12,msgid1741,0,Train,wait so is green block just in the wrong place or is green block the twenty,Ok so now
+638,8_14,msgid1780,0,Train,would you agree with that,oh yellow block's more than forty
+639,8_14,msgid1782,1,Train,would you agree with that,Between forty and fifty
+640,8_14,msgid1827,1,Train,would you agree with that,Yeah forty nine yeah
+641,8_15,msgid1758,1,Train,Should we be precise to one gram,And keep the thirty
+642,8_15,msgid1831,1,Train,Should we be precise to one gram,would you agree with that
+643,8_15,msgid1811,1,Train,Should we be precise to one gram,directly compare yellow block um
+644,8_16,msgid1801,0,Train,So you want to just like tell me the numbers cause,yeah yellow block is between forty and fifty
+645,8_16,msgid1835,1,Train,So you want to just like tell me the numbers cause,No  
+646,8_16,msgid1780,0,Train,So you want to just like tell me the numbers cause,oh yellow block's more than forty
+647,8_17,msgid1792,1,Train,yeah and and um what's the other one blue blue is ten,Yeah
+648,8_17,msgid1822,0,Train,yeah and and um what's the other one blue blue is ten,wait so is green block just in the wrong place or is green block the twenty
+649,8_17,msgid1816,0,Train,yeah and and um what's the other one blue blue is ten,so yellow block's forty one
+650,8_18,msgid1795,0,Train,mystery block,Forty
+651,8_18,msgid1842,1,Train,mystery block,Close
+652,8_18,msgid1755,0,Train,mystery block,did we measure we didn't measure the the yellow one right we might
+653,8_19,msgid1767,1,Train,Is there any mystery block third weight,"gotcha are red block, blue block, purple block, yellow block centered"
+654,8_19,msgid1741,0,Train,Is there any mystery block third weight,Ok so now
+655,8_19,msgid1799,0,Train,Is there any mystery block third weight,Fifty is too heavy
+656,8_20,msgid1882,1,Train,And do you think that like one of us should just like keep them stable so that you're only feeling the weight just cause otherwise one's going to be like less stable I don't know if that'll make a difference,Gotcha  
+657,8_20,msgid1788,0,Train,And do you think that like one of us should just like keep them stable so that you're only feeling the weight just cause otherwise one's going to be like less stable I don't know if that'll make a difference,Yeah twenty  
+658,8_20,msgid1834,1,Train,And do you think that like one of us should just like keep them stable so that you're only feeling the weight just cause otherwise one's going to be like less stable I don't know if that'll make a difference,Have you filled out the survey on the computer as well and you guys will be 
+659,8_21,msgid1856,0,Train,Want me to add the green,White block
+660,8_21,msgid1873,1,Train,Want me to add the green,To see you know how to 
+661,8_21,msgid1741,0,Train,Want me to add the green,Ok so now
+662,8_22,msgid1744,0,Train,A way of actually measuring it like with a scale like set up something that will have a tipping point or are we supposed do this by feel,Sorry
+663,8_22,msgid1891,1,Train,A way of actually measuring it like with a scale like set up something that will have a tipping point or are we supposed do this by feel,Yeah I guess yeah
+664,8_22,msgid1857,1,Train,A way of actually measuring it like with a scale like set up something that will have a tipping point or are we supposed do this by feel,mystery block
+665,8_23,msgid1895,1,Train,Are they the same size though,Want me to add the green
+666,8_23,msgid1893,0,Train,Are they the same size though,And do you think that like one of us should just like keep them stable so that you're only feeling the weight just cause otherwise one's going to be like less stable I don't know if that'll make a difference
+667,8_23,msgid1743,1,Train,Are they the same size though,fine grained control oh
+668,8_25,msgid1806,1,Train,So it's the yellow which was fifty grams right yellow purple,Yeah but
+669,8_25,msgid1794,0,Train,So it's the yellow which was fifty grams right yellow purple,Thirty  
+670,8_25,msgid1779,1,Train,So it's the yellow which was fifty grams right yellow purple,so let's try blue block one too
+671,8_26,msgid1951,1,Train,Ninety let's see are we good with ninety,Green  
+672,8_26,msgid1741,0,Train,Ninety let's see are we good with ninety,Ok so now
+673,8_26,msgid1855,1,Train,Ninety let's see are we good with ninety,Ok which way
+674,8_27,msgid1908,1,Train,Is it the second mystery block,Ok
+675,8_27,msgid1754,1,Train,Is it the second mystery block,so purple block's thirty here
+676,8_27,msgid1862,1,Train,Is it the second mystery block,Ok so it might have to do with the numbers and stuff but
+677,8_28,msgid1760,1,Train,A second mystery block so I'm just wondering which two are moving about,Let's try
+678,8_28,msgid1786,1,Train,A second mystery block so I'm just wondering which two are moving about,purple block is thirty green block is twenty
+679,8_28,msgid1842,0,Train,A second mystery block so I'm just wondering which two are moving about,Close
+680,8_29,msgid1854,1,Train,We don't have a mystery block the company forgot to send the block when you do estimate what the mystery block's weight was without knowing,um green is twenty yep and then yellow
+681,8_29,msgid1841,1,Train,We don't have a mystery block the company forgot to send the block when you do estimate what the mystery block's weight was without knowing,yeah we just got stumped cause it was like
+682,8_29,msgid1906,1,Train,We don't have a mystery block the company forgot to send the block when you do estimate what the mystery block's weight was without knowing,A way of actually measuring it like with a scale like set up something that will have a tipping point or are we supposed do this by feel
+683,8_30,msgid1844,1,Train,What do you think,Yeah
+684,8_30,msgid1786,0,Train,What do you think,purple block is thirty green block is twenty
+685,8_30,msgid1804,0,Train,What do you think,we tried all of the combinations yeah yeah we can try this
+686,8_31,msgid1837,0,Train,For like each new block,Should we be precise to one gram
+687,8_31,msgid1833,1,Train,For like each new block,Yeah
+688,8_31,msgid1995,0,Train,For like each new block,A second mystery block so I'm just wondering which two are moving about
+689,9_1,msgid2064,1,Train,I don't know if I trust you,"i would say red block, blue block's equal"
+690,9_1,msgid2082,1,Train,I don't know if I trust you,Oh yeah ok oh never mind ok 
+691,9_1,msgid2061,1,Train,I don't know if I trust you,Let's go
+692,9_2,msgid2106,1,Train,What it's eighty grams I feel like it's ,No the yellow one is the heaviest
+693,9_2,msgid2112,1,Train,What it's eighty grams I feel like it's ,So one forty
+694,9_2,msgid2116,1,Train,What it's eighty grams I feel like it's ,Ok so it's either one forty and one fifty ok
+695,9_3,msgid2125,1,Train,Like no shot this is eighty grams,Eighty that's not right it's
+696,9_3,msgid2126,1,Train,Like no shot this is eighty grams,You will have two attempts to estimate and explain your answer you can now continue the survey
+697,9_3,msgid2116,0,Train,Like no shot this is eighty grams,Ok so it's either one forty and one fifty ok
+698,10_1,msgid2173,1,Train,let's assume that the bigger ones are,You must place the cubes onto this worksheet once you have determined their weight and also enter their weight in the survey on the computer
+699,10_1,msgid2170,1,Train,let's assume that the bigger ones are,I will tell you that the red cube is ten grams
+700,10_1,msgid2169,1,Train,let's assume that the bigger ones are,In part one you will work together to determine the weights of the five colorful cubes
+701,10_2,msgid2181,1,Train,"i mean what why didn't we first check out whether red block, blue block two are equal red block, blue block are of equal size but",we can put red block other one here too
+702,10_2,msgid2168,1,Train,"i mean what why didn't we first check out whether red block, blue block two are equal red block, blue block are of equal size but",Okay The test that you are completing today is called the weights test The test that you are completing today is called the weights test
+703,10_2,msgid2170,0,Train,"i mean what why didn't we first check out whether red block, blue block two are equal red block, blue block are of equal size but",I will tell you that the red cube is ten grams
+704,10_4,msgid2222,1,Train,"do green block, purple block, yellow block make sense",Thirty one thirty two so thirty
+705,10_4,msgid2191,1,Train,"do green block, purple block, yellow block make sense",Yeah I suppose
+706,10_4,msgid2170,0,Train,"do green block, purple block, yellow block make sense",I will tell you that the red cube is ten grams
+707,10_5,msgid2171,1,Train,Do you wanna try any tens anywhere,You will determine the weights of the remaining cubes using the scale here
+708,10_5,msgid2180,0,Train,Do you wanna try any tens anywhere,let's put two yeah red one as well
+709,10_5,msgid2169,0,Train,Do you wanna try any tens anywhere,In part one you will work together to determine the weights of the five colorful cubes
+710,10_6,msgid2224,1,Train,"like if green block, purple block are more than fifty then yellow block is less yeah",um you know what let's try this
+711,10_6,msgid2229,1,Train,"like if green block, purple block are more than fifty then yellow block is less yeah",Twenty
+712,10_6,msgid2179,0,Train,"like if green block, purple block are more than fifty then yellow block is less yeah",let's assume that the bigger ones are
+713,10_7,msgid2176,0,Train,should i oh yeah yellow block is fifty grams,Yeah
+714,10_7,msgid2198,1,Train,should i oh yeah yellow block is fifty grams,Looks fairly equal to me yeah
+715,10_7,msgid2177,1,Train,should i oh yeah yellow block is fifty grams,Okay  
+716,10_8,msgid2165,1,Train,"you know what like i feel that is blue block, red block what the other thing too is purple because blue and red makes purple right",Let me Calibrate my cameras real quick Oh I'm just
+717,10_8,msgid2252,1,Train,"you know what like i feel that is blue block, red block what the other thing too is purple because blue and red makes purple right",tens yeah so that's it
+718,10_8,msgid2195,1,Train,"you know what like i feel that is blue block, red block what the other thing too is purple because blue and red makes purple right",just a sec let it settle for the
+719,10_9,msgid2178,1,Train,where is the mystery block any idea,So I suppose like
+720,10_9,msgid2197,1,Train,where is the mystery block any idea,Hmmm
+721,10_9,msgid2253,1,Train,where is the mystery block any idea,Hopefully
+722,10_10,msgid2214,1,Train,indicate the weight of the mystery block whoa where is the blue guy,like you would be able to see it right?
+723,10_10,msgid2203,1,Train,indicate the weight of the mystery block whoa where is the blue guy,Let's put one ten
+724,10_10,msgid2241,0,Train,indicate the weight of the mystery block whoa where is the blue guy,"like if green block, purple block are more than fifty then yellow block is less yeah"
+725,10_11,msgid2222,0,Train,"i would say still heavier than all mystery block blocks yeah can you grab there and hold red block, blue block, green block, purple block, yellow block",Thirty one thirty two so thirty
+726,10_11,msgid2292,1,Train,"i would say still heavier than all mystery block blocks yeah can you grab there and hold red block, blue block, green block, purple block, yellow block",well just just try to get a feel of mystery block
+727,10_11,msgid2291,1,Train,"i would say still heavier than all mystery block blocks yeah can you grab there and hold red block, blue block, green block, purple block, yellow block",can we form something on one side like this place the other one so okay yeah
+728,10_12,msgid2187,1,Train,"because two tens two tens there's two so the thing is like if we put yellow block, purple block, green block, red block also feels lighter right","i mean what why didn't we first check out whether red block, blue block two are equal red block, blue block are of equal size but"
+729,10_12,msgid2308,1,Train,"because two tens two tens there's two so the thing is like if we put yellow block, purple block, green block, red block also feels lighter right",Yeah
+730,10_12,msgid2240,1,Train,"because two tens two tens there's two so the thing is like if we put yellow block, purple block, green block, red block also feels lighter right",Fifty
+731,10_13,msgid2280,1,Train,"red block, blue block, green block, purple block, yellow block, mystery block feels same almost try it",where is the mystery block any idea
+732,10_13,msgid2328,1,Train,"red block, blue block, green block, purple block, yellow block, mystery block feels same almost try it",Yeah
+733,10_13,msgid2307,1,Train,"red block, blue block, green block, purple block, yellow block, mystery block feels same almost try it",Still lighter
+734,10_14,msgid2289,1,Train,i mean this is very difficult why don't we just guess,Thirty Twenty
+735,10_14,msgid2303,1,Train,i mean this is very difficult why don't we just guess,Fifty thirty eighty twenty hundred
+736,10_14,msgid2172,1,Train,i mean this is very difficult why don't we just guess,All of the weights are intervals of ten grams so you don't need to use the slider um and the scale is not perfect so as long as one side doesn't drop you can assume the weights are fairly equal
+737,10_15,msgid2285,1,Train,well if we're going to put a hundred and ten what no that's what i said this is alone it's it's hundred but what do you want to do first i think we should go with a hundred and ten first then if y'all agree we can go with a hundred next right,Um you guys will have two attempts to enter the data correctly into the survey
+738,10_15,msgid2305,1,Train,well if we're going to put a hundred and ten what no that's what i said this is alone it's it's hundred but what do you want to do first i think we should go with a hundred and ten first then if y'all agree we can go with a hundred next right,this is hard to say
+739,10_15,msgid2175,1,Train,well if we're going to put a hundred and ten what no that's what i said this is alone it's it's hundred but what do you want to do first i think we should go with a hundred and ten first then if y'all agree we can go with a hundred next right,okay so the red is ten grams?
+740,10_16,msgid2291,0,Train,like just because of just becasuse that's fibonacci because i'm not sure what this hint is this is saying relationship between the weights which means,can we form something on one side like this place the other one so okay yeah
+741,10_16,msgid2322,1,Train,like just because of just becasuse that's fibonacci because i'm not sure what this hint is this is saying relationship between the weights which means,"yeah yellow block, purple block, green block, red block's lighter but yellow block, purple block, green block, red block, blue block"
+742,10_16,msgid2312,1,Train,like just because of just becasuse that's fibonacci because i'm not sure what this hint is this is saying relationship between the weights which means,Let me try
+743,10_17,msgid2226,1,Train,But eighty is a big difference like you know from a hundred to an eighty Well let's try to see if there is a hint here,Okay  
+744,10_17,msgid2357,1,Train,But eighty is a big difference like you know from a hundred to an eighty Well let's try to see if there is a hint here,like just because of just becasuse that's fibonacci because i'm not sure what this hint is this is saying relationship between the weights which means
+745,10_17,msgid2237,0,Train,But eighty is a big difference like you know from a hundred to an eighty Well let's try to see if there is a hint here,just a sec let this settle now yeah
+746,10_18,msgid2239,1,Train,Eighty let's let's go for eighty Yeah,yellow block is like less than fifty less than fifty
+747,10_18,msgid2330,0,Train,Eighty let's let's go for eighty Yeah,i i was thinking maybe a little bit higher instead of lower but that also makes sense because i don't know any better
+748,10_18,msgid2243,1,Train,Eighty let's let's go for eighty Yeah,i guess we're done huh i just want to feel yellow block though i really want to see if yellow block's the heaviest
+749,10_19,msgid2284,1,Train,Is that the first mystery block or the second mystery block,Determine the weight of this mystery block 
+750,10_19,msgid2292,0,Train,Is that the first mystery block or the second mystery block,well just just try to get a feel of mystery block
+751,10_19,msgid2216,1,Train,Is that the first mystery block or the second mystery block,Stop now please
